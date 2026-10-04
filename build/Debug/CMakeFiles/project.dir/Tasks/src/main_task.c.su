@@ -1,0 +1,2 @@
+D:/STM32/homework1/Tasks/src/main_task.c:9:6:TaskInit	8	static
+D:/STM32/homework1/Tasks/src/main_task.c:19:6:HAL_TIM_PeriodElapsedCallback	16	static
