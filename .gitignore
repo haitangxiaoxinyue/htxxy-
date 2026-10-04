@@ -1,0 +1,19 @@
+# 编译产物目录（本地编译生成，不需要上传）
+build/
+
+# 二进制 / 中间文件
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.su
+*.a
+*.d
+
+# 编辑器 / 系统临时文件
+*.swp
+*~
+.DS_Store
+Thumbs.db
